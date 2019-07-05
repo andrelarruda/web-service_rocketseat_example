@@ -1,0 +1,8 @@
+Este projeto exemplo foi criado à partir do tutorial da Rocketseat:
+https://station.rocketseat.com.br/dashboard
+
+O mongoose é o ORM que trabalha com o mongodb (semelhante ao Sequelize com MySQL)
+
+O cors é o que permite que a API seja acessada por outros domínios. Seja online ou não.
+Para instalá-lo: npm install cors
+
